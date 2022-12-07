@@ -1,5 +1,5 @@
-# PROY-METAHEURISTICAS
-ENTREGA-PROY-METAHEURISTICAS
+# PROYECTO METAHEURISTICAS 2020.20
+ENTREGA PROYECTO METAHEURISTICAS
 
 ## Alternativa metaheurística de dos fases para el Problema de Asignación de Asientos: caso de estudio Viva Air.
 
