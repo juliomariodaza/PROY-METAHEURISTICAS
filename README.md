@@ -6,6 +6,7 @@ ENTREGA PROYECTO METAHEURISTICAS
 Julio Mario Daza-Escorcia a, Juan Diego Prada b
 
 a Universidad de los Andes, Bogotá, Colombia, jm.dazae@uniandes.edu.co
+
 b Universidad de los Andes, Bogotá, Colombia, jd.pradal@uniandes.edu.co 
 
 
