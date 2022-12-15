@@ -1,7 +1,7 @@
 # PROYECTO FINAL VIVA AIR 2020.20
 ENTREGA PROYECTO FINAL VIVA AIR
 
-## Alternativa algorítmica para el Problema de Asignación de Asientos: caso de estudio Viva Air.
+## Alternativa metaheurística de dos fases para el Problema de Asignación de Asientos: caso de estudio Viva Air.
 #### Julio Mario Daza-Escorcia a, Juan Diego Prada b
 
 a Universidad de los Andes, Bogotá, Colombia, jm.dazae@uniandes.edu.co
